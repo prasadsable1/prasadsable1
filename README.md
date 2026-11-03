@@ -1,43 +1,95 @@
-# Hi, I'm Prasad Sable 👋
+<div align="center">
+
+# 👋 Hi, I'm Prasad Sable
 
 ### 💻 Computer Engineering Student | Python Developer | Aspiring Software Engineer
 
-I'm passionate about building practical software applications, exploring data analytics, and developing machine learning solutions.
+Building practical applications, exploring data, and developing intelligent solutions.
 
-I enjoy turning ideas into projects and continuously improving my technical skills.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Always+Learning+Something+New" />
 
-## 🚀 Featured Projects
-
-### 📊 DataPilot
-
-A data analysis tool supporting CSV, Excel, and JSON files.
-
-### 📈 SmartStock ML
-
-A product demand prediction project powered by a Random Forest model.
-
-### 💰 SpendSense
-
-A monthly budget tracking application.
-
-## 🛠️ Tech Stack
-
-* **Languages:** Python, Java, JavaScript
-* **Data Analytics:** Pandas, NumPy
-* **Machine Learning:** Scikit-learn
-* **Database:** MySQL
-* **Tools:** Git, GitHub, VS Code
-
-## 🎯 Current Goals
-
-* Strengthening Python and machine learning fundamentals.
-* Building practical, well-documented projects.
-* Developing skills for software development and data analytics internships.
-
-## 🤝 Connect With Me
-
-* GitHub: [@prasadsable1](https://github.com/prasadsable1)
+</div>
 
 ---
 
-*Learning continuously. Building consistently.*
+## 👨‍💻 About Me
+
+* 🎓 Computer Engineering Diploma Student.
+* 🐍 Interested in Python Development and Data Analytics.
+* 🤖 Exploring Machine Learning and AI.
+* 🚀 Building practical software projects.
+* 🎯 Preparing for software development and data-related internships.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode" />
+
+</div>
+
+### Areas of Interest
+
+* Data Analytics
+* Machine Learning
+* Backend Development
+* Web Development
+* Artificial Intelligence
+
+---
+
+## 🚀 Featured Projects
+
+| Project          | Description                                   | Technology |
+| ---------------- | --------------------------------------------- | ---------- |
+| 📊 DataPilot     | Data analysis supporting CSV, Excel and JSON  | Python     |
+| 📈 SmartStock ML | Product demand prediction using Random Forest | Python, ML |
+| 💰 SpendSense    | Monthly budget tracking                       | Python     |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadsable1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsable1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=prasadsable1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Improving Python and programming fundamentals.
+* Building machine learning projects.
+* Learning backend development.
+* Developing real-world applications.
+* Participating in hackathons and technical competitions.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/prasadsable1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+![Profile Views](https://komarev.com/ghpvc/?username=prasadsable1\&color=blueviolet\&style=flat-square)
+
+</div>
